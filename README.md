@@ -12,4 +12,4 @@ I am a Front End Developer and UI UX Designer
 
 DevCard
 
-<a href="https://app.daily.dev/marifm1986"><img src="https://api.daily.dev/devcards/40d404fccdf84867994237ea7fe70abe.png?r=bx4" width="400" alt="Arif Matubber's Dev Card"/></a>
+<a href="https://app.daily.dev/marifm1986"><img src="https://api.daily.dev/devcards/40d404fccdf84867994237ea7fe70abe.png?r=nlc" width="400" alt="Arif Matubber's Dev Card"/></a>
